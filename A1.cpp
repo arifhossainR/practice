@@ -8,3 +8,4 @@ int main()
     cout<<(((n-1)/a+1)*((m-1)/a+1))<<endl;
     return 0;
 }
+ksdfvhbkedbvljedbvkerf
